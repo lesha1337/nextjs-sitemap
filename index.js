@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { js2xml } = require("xml-js");
 const fs = require("fs");
 const path = require("path");
