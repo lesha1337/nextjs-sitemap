@@ -1,0 +1,26 @@
+{
+  "name": "nextjs-sitemap",
+  "version": "1.0.0",
+  "description": "nextjs sitemap creation tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lesha1337/nextjs-sitemap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bin": {
+    "sitemap-1337": "./index.js"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lesha1337/nextjs-sitemap/issues"
+  },
+  "homepage": "https://github.com/lesha1337/nextjs-sitemap#readme",
+  "dependencies": {
+    "xml-js": "^1.6.11"
+  }
+}
