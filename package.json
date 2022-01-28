@@ -1,10 +1,10 @@
 {
-  "name": "nextjs-sitemap",
-  "version": "1.0.0",
+  "name": "@equilab/sitemap-1337",
+  "version": "1.0.2",
   "description": "nextjs sitemap creation tool",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "postversion": "./bin/postversion.sh"
   },
   "repository": {
     "type": "git",
